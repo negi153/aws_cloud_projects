@@ -22,4 +22,5 @@ The goal is to process the incremental data from S3 bucket and load into Snowfla
 # Customer geographical data ingestion
 The goal is to consume incremental Customer geographical data from S3 and load into oracle table after aplying the transformaiton in Glue job.
 
-![geo-codes](https://github.com/negi153/aws_cloud_projects/assets/27079205/ac2c842b-8f01-4bc6-857a-75e5b6df7365)
+![geo-codes](https://github.com/negi153/aws_cloud_projects/assets/27079205/8d4a6d9d-8660-4a7a-ac13-aa0d08cc68c1)
+

@@ -1,8 +1,8 @@
 # AWS Cloud Automations
-This repository contains the projects/automations to consume the static as well as realtime data and load into datawarehosue after transformation.
-- Designed, Develop, Deployed the ETL pipeline from scratch.
-- Bug-fixes, Enhancement, unit testing and documentation
-- Deployed the infrastructure using Cloudformation service IAAC (Infrastructure as a code)
+This repository contains the architecture of projects/automations to consume the static as well as realtime data and load into datawarehosue after transformation.
+- Designed, Develop and Deployed the ETL pipeline into AWS Cloud.
+- Performed Bug-fixes, Enhancement, unit testing and documentation.
+- Deployed the infrastructure using Cloudformation service IAAC (Infrastructure as a code).
 
 ## Realtime GPS data processing
 The goal of this project is to consume the vehicles GPS data in realtime and load into S3 bucket and Snowflake datawarehouse after applying transformations.

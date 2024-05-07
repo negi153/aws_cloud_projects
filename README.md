@@ -18,3 +18,8 @@ The goal is to process the incremental data from S3 bucket and load into Snowfla
 - Designed, Develop, Deployed the ETL pipeline from scratch.
 - Bug-fixes, Enhancement, unit testing and documentation
 - Deployed the infrastructure using Cloudformation service IAAC (Infrastructure as a code)
+
+# Customer geographical data ingestion
+The goal is to consume incremental Customer geographical data from S3 and load into oracle table after aplying the transformaiton in Glue job.
+
+![geo-codes](https://github.com/negi153/aws_cloud_projects/assets/27079205/ac2c842b-8f01-4bc6-857a-75e5b6df7365)
